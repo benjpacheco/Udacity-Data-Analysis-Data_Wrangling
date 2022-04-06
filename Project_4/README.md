@@ -1,4 +1,4 @@
-# Project 4
+# Wrangling and Analyzing WeRateDogs
 
 To view the main bulk of the project open -> wrangle_act.ipynb
 
