@@ -1,5 +1,5 @@
 
-<h1 align="center">Project IV: Wrangle and Analyze Data</h1>
+<h1 align="center">WeRateDogs Twitter Data Wrangling</h1>
 
 
 ## Table of Contents
